@@ -21,7 +21,7 @@ function App() {
           {/* Add your education details here */}
         </section>
         <section id="cv">
-          <h2>CVV</h2>
+          <h2>CV</h2>
           <a href="path/to/your-cv.pdf" download>Download CV</a>
         </section>
         <footer>
